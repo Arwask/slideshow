@@ -1,0 +1,34 @@
+{
+	"imageList":
+	[{
+		"url":"images/pic1.jpg",
+		"name":"Beach Beauty-1",
+		"caption":"lorem ipsum la la la"
+	},
+	{
+		"url":"images/pic2.jpg",
+		"name":"Andaman Beach-2",
+		"caption":"lorem ipsum da da  da"
+	},
+	{
+		"url":"images/pic3.jpg",
+		"name":"Havelock Beach-3",
+		"caption":"lorem ipsum ba ba ba"
+	},
+	{
+		"url":"images/pic4.jpg",
+		"name":"Nicobar Beach-4",
+		"caption":"lorem ipsum he he he"
+	},
+	{
+		"url":"images/pic5.jpg",
+		"name":"Neil Island-5",
+		"caption":"lorem ipsum ta ta ta"
+	},
+	{
+		"url":"images/pic6.jpg",
+		"name":"Port Blair Beach-6",
+		"caption":"lorem ipsum cha cha cha"
+	}
+	]
+}
